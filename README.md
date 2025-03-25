@@ -1,2 +1,1 @@
-# financial-management-system
-A repository for a complete Financial Management System
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
